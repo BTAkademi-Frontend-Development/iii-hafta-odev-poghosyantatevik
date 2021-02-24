@@ -6,27 +6,27 @@
 
 - Kullanılacak farklı icon kütüphanelerini araştırınız ve linklerini paylaşınız.
 
-        :arrow_forward: [feather icons](https://feathericons.com/)
+  :dart: [feather icons](https://feathericons.com/)
         
-        :arrow_forward: [font awesome icons](https://fontawesome.com/)
+  :dart: [font awesome icons](https://fontawesome.com/)
         
-        :arrow_forward: [bootstrap icons](https://icons.getbootstrap.com/)
+  :dart: [bootstrap icons](https://icons.getbootstrap.com/)
         
-        :arrow_forward: [orion icon library](https://orioniconlibrary.com/)
+  :dart: [orion icon library](https://orioniconlibrary.com/)
          
-        :arrow_forward: [flat icon](https://www.flaticon.com/)
+  :dart: [flat icon](https://www.flaticon.com/)
           
-        :arrow_forward: [icon scout](https://iconscout.com/)
+  :dart: [icon scout](https://iconscout.com/)
         
-        :arrow_forward: [smash icon](https://smashicons.com/)
+  :dart: [smash icon](https://smashicons.com/)
         
-        :arrow_forward: [glyph icons](https://www.glyphicons.com/)
+  :dart: [glyph icons](https://www.glyphicons.com/)
         
-        :arrow_forward: [SVG icons for React](https://icons.grommet.io/?)
+  :dart: [SVG icons for React](https://icons.grommet.io/?)
         
-        :arrow_forward: [material design icons](https://materialdesignicons.com/)
+  :dart: [material design icons](https://materialdesignicons.com/)
         
-        :arrow_forward: [free icons](https://freeicons.io/)
+  :dart: [free icons](https://freeicons.io/)
 
 - HTML ve CSS kullanarak:
 
@@ -34,7 +34,7 @@ Bir e-ticaret ürün sayfası
 
 Bir iletişim Sayfası
 
-        :arrow_forward:  here you can find the latest contact form I have written (https://github.com/poghosyantatevik/contact-form.git)
+  :dart:  here you can find the latest contact form I have written (https://github.com/poghosyantatevik/contact-form.git)
 
 Kurumsal web sayfası
 
