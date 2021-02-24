@@ -4,6 +4,8 @@
 
 - [CSS Art](https://css-art.com/) bir örnek özelleştirmeye çalışın ve Codepen linklerini bu repoya ekleyiniz. 
 
+  :dart: [This is the original link](https://codepen.io/antoniasymeonidou/pen/XWdmRYN), and [this is mine](https://codepen.io/tatevik-poghosyan/pen/PobEpgz)
+
 - Kullanılacak farklı icon kütüphanelerini araştırınız ve linklerini paylaşınız.
 
   :dart: [feather icons](https://feathericons.com/)
