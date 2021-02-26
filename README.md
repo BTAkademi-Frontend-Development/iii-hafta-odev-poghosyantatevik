@@ -42,4 +42,6 @@ Kurumsal web sayfası
 
 Bir tane landing page
 
+  :dart: here you can find both the photo of the original landing page and also my code, and see how close I came to the original (https://github.com/poghosyantatevik/landing-page.git)
+
 Bir portfolyo sayfası hazırlayarak bunların repo linklerini ekleyiniz.
