@@ -8,6 +8,8 @@
 
 - Kullanılacak farklı icon kütüphanelerini araştırınız ve linklerini paylaşınız.
 
+  :dart: [Heroicons](https://heroicons.com/)
+
   :dart: [feather icons](https://feathericons.com/)
         
   :dart: [font awesome icons](https://fontawesome.com/)
